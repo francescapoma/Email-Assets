@@ -444,9 +444,12 @@ img { background-color: transparent !important; }
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0;" class="m">
 <tbody>
 <tr>
-<td style="width:276px;" class="m">
-<img alt src="img/15ccd764a36f9353b2da6bb91017db7d.png" style="border:0;border-radius:20px 20px 20px 20px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="276">
-</td>
+  <td style="width:276px;" class="m">
+    <img src="https://github.com/francescapoma/Email-Assets/raw/main/illustration%204%202.png" 
+         alt="Illustration 4" 
+         style="border:0; border-radius:20px; display:block; outline:none; text-decoration:none; height:auto; width:100%; font-size:13px;" 
+         width="276">
+  </td>
 </tr>
 </tbody>
 </table>
