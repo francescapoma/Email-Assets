@@ -153,7 +153,12 @@ img { background-color: transparent !important; }
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td bgcolor="#ffffff" align="center" style="padding: 20px 0;">
-      <img src="your-logo.png" alt="Logo" width="200" style="display: block;">
+      <a href="https://your-link.com" target="_blank">
+        <img src="https://github.com/francescapoma/Email-Assets/raw/main/577c66dd62650c7a9fe5f454c50dee56.png" 
+             alt="Logo" 
+             width="200" 
+             style="display: block; border: 0;">
+      </a>
     </td>
   </tr>
 </table>
