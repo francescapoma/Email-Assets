@@ -187,9 +187,12 @@ img { background-color: transparent !important; }
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0;" class="m">
 <tbody>
 <tr>
-<td style="width:600px;" class="m">
-<img alt src="img/78030478ef8ff83550c1c39cf091c2f2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600">
-</td>
+  <td style="width:600px;">
+    <img src="https://github.com/francescapoma/Email-Assets/raw/main/78030478ef8ff83550c1c39cf091c2f2.jpg" 
+         alt="Header Image" 
+         style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" 
+         width="600">
+  </td>
 </tr>
 </tbody>
 </table>
