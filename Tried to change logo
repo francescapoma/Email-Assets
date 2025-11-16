@@ -297,7 +297,7 @@ img { background-color: transparent !important; }
   <td style="width:276px;" class="m">
     <img src="https://github.com/francescapoma/Email-Assets/raw/main/illustration%203%203%20(1).png" 
          alt="Illustration" 
-         style="border:0;border-radius:20px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" 
+         style="border:0; border-radius:20px; display:block; outline:none; text-decoration:none; height:auto; width:100%; font-size:13px;" 
          width="276">
   </td>
 </tr>
