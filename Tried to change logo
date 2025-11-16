@@ -152,7 +152,10 @@ img { background-color: transparent !important; }
 <tbody>
 <tr>
 <td style="width:138px;">
-<img alt src="img/577c66dd62650c7a9fe5f454c50dee56.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="138">
+<img src="https://github.com/francescapoma/Email-Assets/raw/main/577c66dd62650c7a9fe5f454c50dee56.png" 
+     alt="Logo" 
+     style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" 
+     width="138">
 </td>
 </tr>
 </tbody>
